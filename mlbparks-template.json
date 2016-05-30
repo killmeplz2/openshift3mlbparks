@@ -387,7 +387,7 @@
         {
             "name": "SOURCE_REPOSITORY_URL",
             "description": "Git source URI for application",
-            "value": "https://github.com/gshipley/openshift3mlbparks",
+            "value": "https://github.com/killmeplz2/openshift3mlbparks",
             "required": true
         },
         {
